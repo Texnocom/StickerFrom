@@ -23,6 +23,6 @@ python -m stickertoimgrobot
 
 StickerToIMGBot Pulsuz Proqramdır: Paylaşımdan istifadə edə, öyrənə və inkişaf etdirə bilərsiniz
 olacaq. Xüsusi olaraq onu şərtlərə əsasən yenidən paylaya və / və ya dəyişdirə bilərsiniz
-[GNU Ümumi İctimai Lisenziyası] (https://www.gnu.org/licenses/gpl.html) kimi
+[GNU Ümumi İctimai Lisenziyası](https://www.gnu.org/licenses/gpl.html) kimi
 Pulsuz Proqram Vəqfi tərəfindən nəşr olunan lisenziyanın 3-cü versiyası və ya
 (seçiminizə görə) hər hansı sonrakı versiya.
