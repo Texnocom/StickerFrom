@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://images.discordapp.net/avatars/224415693393625088/8f6a0ca7e883f87241b02ba8e1328f34.png?" width="90"></a></p> 
+<p align="center"><a href="https://t.me/botmap"><img src="https://images.discordapp.net/avatars/224415693393625088/8f6a0ca7e883f87241b02ba8e1328f34.png?" width="90"></a></p> 
 <h1 align="center"><b>STICKER TO IMAGE BOT</b></h1>
 <h4 align="center">Teletonda Etiketləri Təsvirə çevirən sadə bir bot</h4>
 
