@@ -36,7 +36,7 @@ async def handle_message(hmm: events.NewMessage.Event):
         replied_user = await hmm.client(GetFullUserRequest(hmm.sender_id))
         firstname = replied_user.user.first_name
         vent = hmm.chat_id
-        oki = f"**Hey {firstname} !** \n`Mənə bir şəkil göndərin ölçüsünü sticker ölçüsünə çevirib sizə göndərim` \n**(c) @BOTMAP**"
+        oki = f"**Hey {firstname} !** \n`Mənə bir şəkil göndərin ölçüsünü sticker ölçüsünə çevirib sizə göndərim` \n**(c) @BotFatherAz**"
         await hmm.reply(oki)
 
 
